@@ -1,10 +1,20 @@
 body {
     color:black;
     background-color:white;
-    background-image: image();
-    margin:0;
+    background-image: url(https://github.com/Man-BAL/mon_premier_site_web/blob/main/Copy%20of%20magnetics.png?raw=true);
+    margin:200;
     }
-h1 {
-    font-family: fantasy;    
-
-    
+    h1 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: medium;
+        font-style: normal;
+        text-align: center;
+        color : #134E6E;
+        }
+    h2 {
+        font-family: 'Poppins', sans-serif;
+        font-size: smaller;
+        font-style: normal;
+        text-align: center;  
+        color: #F05558;  
+        }
